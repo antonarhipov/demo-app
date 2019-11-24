@@ -15,5 +15,6 @@ public class Int2Test {
     public void shouldRun2()
     {
         assertTrue( true );
+        assertTrue( true );
     }
 }
