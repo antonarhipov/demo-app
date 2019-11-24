@@ -1,10 +1,10 @@
-package org.demo.app.itest2;
+package org.demo.app.itest1;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
 
-public class AppTest2 {
+public class Int1Test {
     @Test
     public void shouldRun()
     {
