@@ -10,4 +10,10 @@ public class Int2Test {
     {
         assertTrue( true );
     }
+
+    @Test
+    public void shouldRun2()
+    {
+        assertTrue( false );
+    }
 }
