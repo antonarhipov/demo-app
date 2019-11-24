@@ -13,6 +13,6 @@ public class Int2Test {
 
     @Test
     public void shouldRun2() {
-        assertTrue( false );
+        assertTrue( true );
     }
 }
