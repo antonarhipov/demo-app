@@ -1,0 +1,13 @@
+package org.demo.app;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+public class AppTest {
+    @Test
+    public void shouldRun()
+    {
+        assertTrue( true );
+    }
+}
